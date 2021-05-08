@@ -1,5 +1,5 @@
 ﻿  Main.cpp
-C:\Users\ashis\source\repos\Computer_Graphics_Lab_Assignment_1\Computer_Graphics_Lab_Assignment_1\Main.cpp(14,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\ashis\source\repos\Computer_Graphics_Lab_Assignment_1\Computer_Graphics_Lab_Assignment_1\Main.cpp(28,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ashis\source\repos\Computer_Graphics_Lab_Assignment_1\Computer_Graphics_Lab_Assignment_1\Main.cpp(17,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ashis\source\repos\Computer_Graphics_Lab_Assignment_1\Computer_Graphics_Lab_Assignment_1\Main.cpp(31,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
   Computer_Graphics_Lab_Assignment_1.vcxproj -> C:\Users\ashis\source\repos\Computer_Graphics_Lab_Assignment_1\Debug\Computer_Graphics_Lab_Assignment_1.exe
           1 file(s) copied.

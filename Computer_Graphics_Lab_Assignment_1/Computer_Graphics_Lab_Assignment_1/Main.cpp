@@ -5,7 +5,7 @@
 #include <GL/glut.h>  // GLUT, include glu.h and gl.h
 
 void init(void) {
-	glClearColor(1, 1, 1, 0);						// white background color( first three argument are red, green and blue
+	glClearColor(1, 1, 1, 0);						// white background color( first three argument are red, green and blue. glClear uses color that specified in it
 	//forth is alpha value that is used fro blending parameter
 	
 }
